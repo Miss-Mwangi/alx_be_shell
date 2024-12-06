@@ -37,4 +37,4 @@ A script that adds execute permission to the owner and the group owner, and read
 ---
 
 A script that sets the mode of the file **hello** to this:
-'-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello'
+*-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello*
